@@ -13,6 +13,7 @@ group :production do
   gem 'rails_12factor'
 end
 gem 'carrierwave'
+gem 'foreigner'
 
 
 # Gems used only for assets and not required
